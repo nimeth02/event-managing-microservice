@@ -1,0 +1,26 @@
+exports.customerList=[
+    {
+        _id:"1",
+        name:"nimeth",
+        mobile:"0705485236"
+    },
+    {
+        _id:"2",
+        name:"janith",
+        mobile:"0708475236"
+    },
+    {
+        _id:"3",
+        name:"kasun",
+        mobile:"0755485288"
+    },
+    {
+        _id:"4",
+        name:"sithum",
+        mobile:"0705544136"
+    },{
+        _id:"5",
+        name:"ravindu",
+        mobile:"0705887456"
+    }
+]
